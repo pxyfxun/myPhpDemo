@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<library>
+  <book>
+    <title>白鹿原</title>
+    <author gender="男" age="74">陈忠实</author>
+    <descrition>小说是一个民族的秘史</descrition>
+  </book>
+  <book>
+    <title>平凡的世界</title>
+    <author gender="男">路遥</author>
+    <descrition>激励广大青年奋斗的不朽名著</descrition>
+  </book>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author gender="famale">Jane Austen</author>
+    <descrition>Jane Austen's most popurlar work.</descrition>
+    <cast>
+      <character>Jack Barnes</character>
+      <character>Lady Brett Ashley</character>
+      <character>Robert Cohn</character>
+      <character>Mike Campbell</character>
+    </cast>
+  </book>
+</library>
